@@ -1,0 +1,39 @@
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\bin\Debug\netcoreapp3.1\Client Web application.exe
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\bin\Debug\netcoreapp3.1\Client Web application.deps.json
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\bin\Debug\netcoreapp3.1\Client Web application.runtimeconfig.json
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\bin\Debug\netcoreapp3.1\Client Web application.runtimeconfig.dev.json
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\bin\Debug\netcoreapp3.1\Client Web application.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\bin\Debug\netcoreapp3.1\Client Web application.pdb
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\bin\Debug\netcoreapp3.1\Client Web application.Views.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\bin\Debug\netcoreapp3.1\Client Web application.Views.pdb
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\Client Web application.csproj.AssemblyReference.cache
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\Client Web application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\Client Web application.AssemblyInfoInputs.cache
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\Client Web application.AssemblyInfo.cs
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\Client Web application.csproj.CoreCompileInputs.cache
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\Client Web application.MvcApplicationPartsAssemblyInfo.cache
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\Client Web application.RazorAssemblyInfo.cache
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\Client Web application.RazorAssemblyInfo.cs
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\staticwebassets\Client Web application.StaticWebAssets.Manifest.cache
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\staticwebassets\Client Web application.StaticWebAssets.xml
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\scopedcss\bundle\Client Web application.styles.css
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\Client Web application.TagHelpers.input.cache
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\Client Web application.TagHelpers.output.cache
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\Client Web application.RazorCoreGenerate.cache
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\Client Web application.RazorTargetAssemblyInfo.cache
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\Client Web application.RazorTargetAssemblyInfo.cs
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\Client Web application.Views.pdb
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\Client Web application.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\Client Web application.pdb
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\Client Web application.genruntimeconfig.cache
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\obj\Debug\netcoreapp3.1\Client Web application.csproj.CopyComplete
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Client Web application\bin\Debug\netcoreapp3.1\libman.json

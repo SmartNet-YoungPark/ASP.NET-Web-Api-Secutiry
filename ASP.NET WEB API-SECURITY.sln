@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAuthenticationWEBAPI", "BasicAuthenticationWEBAPI\BasicAuthenticationWEBAPI.csproj", "{EAF2B5EB-5B1C-4A13-A9F5-A9FBDC3F0FC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Role-based Basic Authentication on WEB API", "Role-based Basic Authentication on WEB API\Role-based Basic Authentication on WEB API.csproj", "{7F9E8E77-76DE-475F-81EA-F4F6E63DC5EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web API Service with Basic Authentication", "Web API Service with Basic Authentication\Web API Service with Basic Authentication.csproj", "{FCD02E33-7704-49DE-857B-676E53FDA77B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web_API_Service_with_Basic_Authentication_Console", "Web_API_Service_with_Basic_Authentication_Console\Web_API_Service_with_Basic_Authentication_Console.csproj", "{4566568F-25AC-4075-8EB0-0C7555DF5657}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client Web application", "Client Web application\Client Web application.csproj", "{F3CC3AD0-65AB-4EEA-9FE0-C926E7892D2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic Authentication Using Message Handler in Web API", "Basic Authentication Using Message Handler in Web API\Basic Authentication Using Message Handler in Web API.csproj", "{54591AAF-DD52-4BE5-A5D1-D825C97D2913}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Token Based Authentication in Web API", "Token Based Authentication in Web API\Token Based Authentication in Web API.csproj", "{520DB5B8-9ABC-4D8D-AA71-B69232016DD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client Validation Using Basic Authentication in Web API", "Client Validation Using Basic Authentication in Web API\Client Validation Using Basic Authentication in Web API.csproj", "{0F337F03-C306-48DD-80B0-77A345F1ABC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpCoreWebApiClient", "HttpCoreWebApiClient\HttpCoreWebApiClient.csproj", "{272768D1-C3FF-4784-BB3E-56668239A19A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAF2B5EB-5B1C-4A13-A9F5-A9FBDC3F0FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF2B5EB-5B1C-4A13-A9F5-A9FBDC3F0FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF2B5EB-5B1C-4A13-A9F5-A9FBDC3F0FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF2B5EB-5B1C-4A13-A9F5-A9FBDC3F0FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F9E8E77-76DE-475F-81EA-F4F6E63DC5EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F9E8E77-76DE-475F-81EA-F4F6E63DC5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F9E8E77-76DE-475F-81EA-F4F6E63DC5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F9E8E77-76DE-475F-81EA-F4F6E63DC5EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCD02E33-7704-49DE-857B-676E53FDA77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD02E33-7704-49DE-857B-676E53FDA77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD02E33-7704-49DE-857B-676E53FDA77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD02E33-7704-49DE-857B-676E53FDA77B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4566568F-25AC-4075-8EB0-0C7555DF5657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4566568F-25AC-4075-8EB0-0C7555DF5657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4566568F-25AC-4075-8EB0-0C7555DF5657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4566568F-25AC-4075-8EB0-0C7555DF5657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3CC3AD0-65AB-4EEA-9FE0-C926E7892D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3CC3AD0-65AB-4EEA-9FE0-C926E7892D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3CC3AD0-65AB-4EEA-9FE0-C926E7892D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3CC3AD0-65AB-4EEA-9FE0-C926E7892D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54591AAF-DD52-4BE5-A5D1-D825C97D2913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54591AAF-DD52-4BE5-A5D1-D825C97D2913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54591AAF-DD52-4BE5-A5D1-D825C97D2913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54591AAF-DD52-4BE5-A5D1-D825C97D2913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{520DB5B8-9ABC-4D8D-AA71-B69232016DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520DB5B8-9ABC-4D8D-AA71-B69232016DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520DB5B8-9ABC-4D8D-AA71-B69232016DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520DB5B8-9ABC-4D8D-AA71-B69232016DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F337F03-C306-48DD-80B0-77A345F1ABC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F337F03-C306-48DD-80B0-77A345F1ABC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F337F03-C306-48DD-80B0-77A345F1ABC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F337F03-C306-48DD-80B0-77A345F1ABC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{272768D1-C3FF-4784-BB3E-56668239A19A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272768D1-C3FF-4784-BB3E-56668239A19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272768D1-C3FF-4784-BB3E-56668239A19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272768D1-C3FF-4784-BB3E-56668239A19A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE561F82-9662-4DCC-B46A-84AD56C2CE30}
+	EndGlobalSection
+EndGlobal

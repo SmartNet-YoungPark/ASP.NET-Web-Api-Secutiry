@@ -1,0 +1,71 @@
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\Basic Authentication Using Message Handler in Web API.dll.config
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\Basic Authentication Using Message Handler in Web API.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\Basic Authentication Using Message Handler in Web API.pdb
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\csc.exe
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\csc.exe.config
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\csc.rsp
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\csi.exe
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\csi.exe.config
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\csi.rsp
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\System.AppContext.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\System.Collections.Immutable.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\System.Console.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\System.IO.Compression.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\System.IO.FileSystem.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\System.Net.Http.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\System.Net.Sockets.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\System.ValueTuple.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\System.Xml.XPath.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\vbc.exe
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\vbc.exe.config
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\vbc.rsp
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\VBCSCompiler.exe
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\roslyn\VBCSCompiler.exe.config
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\EntityFramework.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\EntityFramework.SqlServer.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\Newtonsoft.Json.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\System.Net.Http.Formatting.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\System.Web.Http.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\System.Web.Http.WebHost.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\EntityFramework.xml
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\EntityFramework.SqlServer.xml
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\Newtonsoft.Json.xml
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\System.Net.Http.Formatting.xml
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\System.Web.Http.xml
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\System.Web.Http.WebHost.xml
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\obj\Debug\Basic Authentication Using Message Handler in Web API.csproj.AssemblyReference.cache
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\obj\Debug\Basic Authentication Using Message Handler in Web API.csproj.CoreCompileInputs.cache
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\obj\Debug\Basic Authentication Using Message Handler in Web API.csproj.CopyComplete
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\obj\Debug\Basic Authentication Using Message Handler in Web API.dll
+C:\Deveopments\AspDotNet\Web Api\ASP.NET WEB API-Secutiry\Basic Authentication Using Message Handler in Web API\obj\Debug\Basic Authentication Using Message Handler in Web API.pdb
